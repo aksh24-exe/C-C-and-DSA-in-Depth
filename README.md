@@ -1,0 +1,70 @@
+# C, C++, and DSA in Depth - LIVE Class Batch
+
+## Course Material
+
+- **001. Orientation and Fundamentals of Computer** 
+- **002. Introduction to Programming, setup, and History** 
+- **003. Tokens, Data Type, and Variable Declarations**
+- **004. Input Output Instruction**
+- **005. Doubt Class A-1,2**
+- **006. Operators in C Language**
+- **007. Decision Control Instruction**
+- **008. Doubt Class A-3,4**
+- **009. Iterative Control Statements, Solution of Assignment-5**
+- **010. Loop, break, continue, nested loop, star pattern, Ass-6 sol**
+- **011. Doubt Class Assignment-7,8**
+- **012. switch case, goto, Ass-9 Solution**
+- **013. Functions, Solution of Assignment-10**
+- **014. Recursion**
+- **015. Arrays, Assignment-13 Solution**
+- **016. Doubt Class Assignment-14**
+- **017. Strings, Solution of Assignment-15**
+- **018. Pointers, Solution of Assignment-16**
+- **019. Application of Pointers**
+- **020. Structure, DMA, Solution of Assignment-17**
+- **021. C++ Introduction**
+- **022. cout, cin, endl, iostream, inline, default arg, reference**
+- **023. Solution of Assignment-18 Arrays**
+- **024. Function Overloading Part-1**
+- **025. Function Overloading, Structure in C Revision, Ass-19 Sol**
+- **026. Structure in C++, Classes and Objects**
+- **027. static in C++, Assignment Solution -20**
+- **028. passing and returning Object, solution of assignment-21,22**
+- **029. Constructor, Destructor, Assignment-23 Solution**
+- **030. Initializers, Operator Overloading, Solution Assignment-24**
+- **031. Friend Function, Solution of Assignment-25**
+- **032. Pointer, this, DMA, Solution of Assignment-26**
+- **033. Inheritance**
+- **034. Constructor in Inheritance, Diamond Problem, Sol A-27**
+- **035. Overriding, Hiding, Overloading, Virtual function**
+- **036. Pure Virtual function, Abstract Class, Exception Handling**
+- **037. File Handling, Solution of Assignment-29 and 30**
+- **038. Introduction to Data Structure**
+- **039. Array Data Structure, Solution of Assignment 31**
+- **040. Dynamic Array, Program of Array, Sol of Assignment-32,33**
+- **041. Singly Linked List, Program of Dynamic Array, sol of A28, 34**
+- **042. SLL Program, CLL, DLL**
+- **043. Solution of Assignment 44,45, CDLL, Stack**
+- **044. Solution of Assignment-35,46,47, Queue data structure**
+- **045. deque, solution of Assignment-36, 48, 49**
+- **046. Tree, Binary Tree, BST, solution of Assignment-50**
+- **047. BST, Solution of Assignment-51, 52, 53**
+- **048. AVL, Graph, BFS, DFS, solution of Assignment-37**
+- **049. Sorting, Heap**
+- **050. Solution of Assignment-38, 54, Time Complexity**
+- **051. Solution of Assignment-55,56, Searching, Hashing**
+- **052. Solution of Assignment-58, Generic Programming, templates**
+- **053. STL, array**
+- **054. vector, list, and forward_list**
+- **055. Solution Assignment-61**
+- **056. Solution Assignment-62**
+- **057. Solution Assignment-63**
+- **058. Solution Assignment-64**
+- **059. deque, stack, queue, priority_queue, string, pair, tuple**
+- **060. set, map, Algorithms**
+- **061. Types of Algo, DP, Dijkstra's Algo, Project Solution**
+- **062. Tower of Hanoi**
+- **063. Storage Classes**
+- **064. Type Modifiers**
+- **065. union**
+- **066. enum**
